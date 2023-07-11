@@ -1,0 +1,32 @@
+# package directories
+
+node_modules
+
+# ENV variables and secrets
+
+.env
+
+# IDE specific files
+
+.vscode
+_.swp
+_.swo
+
+# Log files
+
+_.log
+_.receipt.json
+
+# Test files
+
+coverage/
+coverage.json
+gas_report
+gcp.json
+.eslintcache
+
+# Other
+
+.DS_Store
+
+docker/scripts/dist
