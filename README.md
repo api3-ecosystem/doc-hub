@@ -5,9 +5,9 @@ The API3 Documentation Hub provides comprehensive guides and example code for un
 ## Recently added/updated 🆕 ✨
 
 ## Guides & examples
-[How to Subscribe to self-funded dAPIs](https://www.youtube.com/watch?v=kY3ExNjG_9c&t=1s)
-[How to read from a dAPI](https://www.youtube.com/watch?v=1ASnpYO66mw)
-[Using Gelato to automate self-funded dAPI subscriptions](https://www.youtube.com/watch?v=9tbxmPXZs6A)
+- [How to Subscribe to self-funded dAPIs](https://www.youtube.com/watch?v=kY3ExNjG_9c&t=1s)
+- [How to read from a dAPI](https://www.youtube.com/watch?v=1ASnpYO66mw)
+- [Using Gelato to automate self-funded dAPI subscriptions](https://www.youtube.com/watch?v=9tbxmPXZs6A)
 
 ## Related API3 resources
 
